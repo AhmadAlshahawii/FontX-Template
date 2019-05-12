@@ -22,7 +22,7 @@ body
 .nav-btn
 {
     font-size: 30px;
-    padding: 10px 12px;
+    padding: 3px 12px;
     background-color: rgba(0, 192, 202, 0.6);
     color: aliceblue;
     z-index: 99999;
@@ -120,7 +120,7 @@ body
 .price
 {
     position: absolute;
-    bottom: 13px;
+    bottom: 18px;
     right: 17px;
     color: aliceblue;
     z-index: 99;
@@ -157,7 +157,7 @@ body
     height: 100%;
 	width: 100%;
 	position: absolute;
-	top: -45px;
+	top: -53px;
 	left: 0;
 	opacity: 0;
 	transition: all 0.5s;
