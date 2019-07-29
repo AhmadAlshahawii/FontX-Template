@@ -1,6 +1,6 @@
 # FontX Template
 
-FontX is free HTML5 website template, animated effects by jQuery, and responsive web design using bootsrtap4.
+FontX is free bootsrtap4 based responsive template, with animated effects.
 
 # FontX Template fully reponsive design
 ![start](https://user-images.githubusercontent.com/48655469/62018120-0e1c0580-b1c2-11e9-8e90-09d4ff669776.png)
@@ -16,10 +16,13 @@ FontX is free HTML5 website template, animated effects by jQuery, and responsive
 <br />
 <br />
 
-## what's included
-* Bootstrap 4+ & CSS3
-* Responsive layout
-* Jquery animation
-* High resolution
+## Technologies used:
+- Bootstrap 4
+- CSS3
+- JQuery
 
+## Features:
+- Responsive design
+- Animations
+- High resolution Support
 
